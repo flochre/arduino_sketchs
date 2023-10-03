@@ -22,8 +22,8 @@
 */
 
 // this constant won't change. It's the pin number of the sensor's output:
-const int triggerPin = 7;
-const int echoPin = 8;
+const int triggerPin = 2;
+const int echoPin = 3;
 
 void setup() {
   // initialize serial communication:
